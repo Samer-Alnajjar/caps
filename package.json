@@ -1,0 +1,27 @@
+{
+  "name": "caps",
+  "version": "1.0.0",
+  "description": "Class401-lab11",
+  "main": "index.js",
+  "scripts": {
+    "start": "node caps.js",
+    "test": "sinon test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Samer-Alnajjar/caps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Samer-Alnajjar/caps/issues"
+  },
+  "homepage": "https://github.com/Samer-Alnajjar/caps#readme",
+  "dependencies": {
+    "faker": "^5.5.3"
+  },
+  "devDependencies": {
+    "sinon": "^10.0.0"
+  }
+}
