@@ -8,4 +8,4 @@ Class401-lab11
   - The app will generate a fake order, with these properties: store, orderID, customer, address.
   - Then the driver will deliver the order.
 
-Pull request: [Pull request](https://samer-bearer-auth.herokuapp.com/)
+Pull request: [Pull request](https://github.com/Samer-Alnajjar/caps/pull/1)
